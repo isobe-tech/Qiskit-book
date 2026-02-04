@@ -1,0 +1,10 @@
+# 公開時点で版を固定する（例：qiskit==..., qiskit-aer==...）。
+# ひとまず開発中は最小セットを置き、章の実装が固まったらピン留めする。
+
+qiskit
+qiskit-aer
+matplotlib
+numpy
+sympy
+pylatexenc
+pillow

@@ -1,0 +1,19 @@
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+
+# Outputs (do not publish by default)
+out/
+data/
+figs/
+*.png
+*.pdf
+*.svg
+*.csv
+*.json
+*.npz
